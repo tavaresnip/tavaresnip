@@ -24,12 +24,13 @@
 </div>
 
 
-### Languages
+### Skills
   <img align="left" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" />
   <img align="left" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="left" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img align="left" height="40" weight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img align="left" height="40" weight="40" src="https://www.sonarqube.org/features/multi-languages/index/apex-color.svg" />
 
 
 <!---
