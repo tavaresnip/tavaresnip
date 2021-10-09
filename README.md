@@ -1,6 +1,6 @@
 ### About Me
 - 👋 Hi, I’m @tavaresnip
-- 👀 I’m interested in .earn more about IT universe
+- 👀 I’m interested in learn more about IT universe
 - 🌱 I’m currently learning Salesforce constantly
 - 💞️ I’m looking to collaborate on everything you need, just let me know
 - 📫 How to reach me:
